@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="500" viewBox="0 0 1500 500">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #6ddab3;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        fill: #4cb08c;
+        filter: url(#filter-4);
+      }
+
+      .cls-5, .cls-6 {
+        fill: #006641;
+      }
+
+      .cls-5 {
+        filter: url(#filter-5);
+      }
+
+      .cls-6 {
+        filter: url(#filter-6);
+      }
+    </style>
+    <filter id="filter" x="218" y="84" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="8" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.606"/>
+      <feFlood result="flood" flood-opacity="0.14"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="281" y="76" width="92" height="92" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="8" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.606"/>
+      <feFlood result="flood" flood-opacity="0.14"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="363" y="78" width="735" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="8" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.606"/>
+      <feFlood result="flood" flood-opacity="0.14"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="241" y="196" width="1196" height="125" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="8" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.606"/>
+      <feFlood result="flood" flood-opacity="0.14"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="1209" y="350" width="119" height="117" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="8" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.606"/>
+      <feFlood result="flood" flood-opacity="0.14"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="92" y="349" width="1131" height="119" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="8" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.606"/>
+      <feFlood result="flood" flood-opacity="0.14"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle class="cls-1" cx="255.828" cy="113.609" r="23.016"/>
+  <circle class="cls-2" cx="326.828" cy="113.625" r="30.984"/>
+  <path id="Roudned_Rectangle_4" data-name="Roudned Rectangle 4" class="cls-3" d="M406.49,84.608h646.69a29,29,0,0,1,29,29v0.037a29,29,0,0,1-29,29H406.49a29,29,0,0,1-29-29v-0.037A29,29,0,0,1,406.49,84.608Z"/>
+  <path id="Roudned_Rectangle_3" data-name="Roudned Rectangle 3" class="cls-4" d="M303.8,202H1374a48,48,0,0,1,0,96H303.8A48,48,0,1,1,303.8,202Z"/>
+  <ellipse class="cls-5" cx="1268" cy="400" rx="45" ry="44"/>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-6" d="M151,355H1162.4a45,45,0,0,1,0,90H151A45,45,0,0,1,151,355Z"/>
+</svg>
